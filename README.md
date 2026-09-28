@@ -1,77 +1,65 @@
 <p align="center">
-  <img src="srivatsa-circle.png" width="180" height="180" alt="Srivatsa Ganapuram smiling outdoors, in a circular portrait" />
+  <img src="srivatsa-circle.png" width="150" height="150" alt="Circular portrait of Srivatsa Ganapuram" />
 </p>
 
 <h1 align="center">Hi, I'm Srivatsa 👋</h1>
-
 <p align="center">
-  <strong>Building AI systems grounded in data.</strong><br />
-  Computer Science · Data Science &amp; Statistics · UMass Amherst '29
+  <strong>From play-by-play data to evidence-backed AI.</strong><br />
+  CS + Data Science &amp; Statistics @ UMass Amherst · Class of 2029
 </p>
 
 <p align="center">
-  <a href="https://github.com/xSriKGx/personal-portfolio">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/srivatsa-ganapuram/">LinkedIn</a> ·
-  <a href="https://github.com/xSriKGx?tab=repositories">Projects</a>
+  <a href="https://www.linkedin.com/in/srivatsa-ganapuram/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <a href="https://github.com/xSriKGx/personal-portfolio"><img alt="Explore my portfolio source" src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+  <a href="https://github.com/xSriKGx?tab=repositories"><img alt="Explore my projects" src="https://img.shields.io/badge/Projects-087F8C?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 
----
+## ⚡ About me
 
-I'm a student at **UMass Amherst** exploring the intersection of **AI, sports analytics, and cybersecurity**. I build tools that turn real-world data into useful explanations, with an emphasis on retrieval, verification, and making the evidence behind an answer easy to inspect.
+- 🏈 **I'm building** AI tools that turn NFL and NBA data into analysis you can trace back to the evidence.
+- 🎓 **I'm studying** Computer Science and Data Science & Statistics at UMass Amherst, graduating in May 2029.
+- 🛡️ **Previously at Intelsat,** I worked on SATCOM security, investigated 10,000+ security events, and automated policy comparisons with Python.
+- 🧑‍🏫 **I also teach:** as a CICS 160 course assistant, I help 200+ students learn object-oriented programming.
+- 🎨 **Beyond the terminal,** I help organize UX/UI and branding events with UMass Design.
+- 💬 **Ask me about** grounded AI, sports analytics, Python automation, or explaining programming concepts clearly.
 
-- **Building:** AI assistants for NFL scouting and NBA analysis.
-- **Teaching:** Object-oriented programming as a CICS 160 undergraduate course assistant, supporting 200+ students.
-- **Previously:** Information Security Intern at Intelsat, working on SATCOM security, threat investigation, and Python automation.
-- **Beyond code:** Helping organize UX/UI and branding events with UMass Design.
+## 💻 My toolkit
 
-## Selected projects
+**Languages**
 
-### 🏈 [Gridline Scout](https://github.com/xSriKGx/gridline-scout)
-**Ask a football question. Trace the answer back to the plays.**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-C74634?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
 
-An NFL scouting assistant built around **40,000+ plays across all 32 teams**. Natural-language questions become transparent filters, statistical summaries, and structured reports with play citations.
+**Data, machine learning & visualization**
 
-- Grounds Claude-generated analysis in retrieved NFLverse data.
-- Includes five automated reliability tests and a local analysis fallback.
-- Flags evidence limits instead of claiming coverage or personnel details the data cannot support.
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-167C80?style=for-the-badge) ![SHAP](https://img.shields.io/badge/SHAP-8B5CF6?style=for-the-badge) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-`Python` `Flask` `Claude API` `NFLverse` `pytest`
+**AI applications**
 
-### 🏀 CourtVision Agents
-**NBA analysis with retrieval, verification, and critique.**
+![Claude API](https://img.shields.io/badge/Claude%20API-B65E43?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-147D64?style=for-the-badge) ![Flask](https://img.shields.io/badge/Flask-24292F?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-BD263A?style=for-the-badge&logo=streamlit&logoColor=white)
 
-A four-agent system that grounds NBA reports in **500+ live statistical features across all 30 teams**. Dedicated verification and critique agents review the evidence before final generation, with reports produced in under 10 seconds during testing.
+**Development & security**
 
-`Python` `Streamlit` `OpenAI API`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![IBM QRadar](https://img.shields.io/badge/IBM%20QRadar-0F62FE?style=for-the-badge)
 
-### ✨ [Personal Portfolio](https://github.com/xSriKGx/personal-portfolio)
-**Two sides of my work, in one interactive space.**
+## 🏟️ The project lineup
 
-A responsive portfolio with two themed paths: **Forgebound** for AI, security, and data projects, and **Wayfinders** for teaching, design, and community.
-
-`React` `TypeScript` `Tailwind CSS`
-
-## Tools I work with
-
-| Area | Technologies |
+| Project | What I built |
 | :--- | :--- |
-| Programming | Python, Java, SQL, R, HTML, CSS |
-| Data & machine learning | Pandas, NumPy, scikit-learn, XGBoost, SHAP |
-| Visualization | Matplotlib, Plotly |
-| AI applications | Claude API, OpenAI API, Streamlit, Flask |
-| Development & security | Git, Linux, Raspberry Pi, IBM QRadar |
+| **🏈 [Gridline Scout](https://github.com/xSriKGx/gridline-scout)**<br />NFL scouting assistant | Turns questions into filters, statistics, and cited scouting reports across **40,000+ plays / 32 teams**. Includes five reliability tests, evidence limits, and a local fallback.<br /><br />`Python` `Flask` `Claude API` `NFLverse` |
+| **🏀 CourtVision Agents**<br />NBA analysis pipeline | A **four-agent system** using **500+ statistical features / 30 teams**, with verification and critique before final generation. Reports produced in under 10 seconds during testing.<br /><br />`Python` `Streamlit` `OpenAI API` |
+| **✨ [Personal Portfolio](https://github.com/xSriKGx/personal-portfolio)**<br />Code meets design | Two themed paths through my work: **Forgebound** for AI, security, and data; **Wayfinders** for teaching, design, and community.<br /><br />`React` `TypeScript` `Tailwind CSS` |
 
-## Experience that shapes my work
+## 🧭 What connects my work
 
-**Intelsat · Information Security Intern · Summer 2025**  
-Investigated **10,000+ security events** using IBM QRadar, assessed SATCOM systems with Linux and Raspberry Pi, and wrote Python scripts to compare security policy revisions.
+Whether I'm investigating a security event, analyzing a game, or helping a student debug, I care about making the reasoning clear. My projects pair useful interfaces with **retrievable evidence, explicit limits, and understandable explanations**.
 
-**UMass Amherst · Expected graduation May 2029**  
-Studying Computer Science and Data Science & Statistics. Dean's List and Chancellor's Award Scholarship recipient.
+<p align="center">
+  <strong>Data → Evidence → Insight</strong><br />
+  <sub>AI &amp; sports analytics · Security &amp; automation · Teaching &amp; design</sub>
+</p>
 
 ---
 
 <p align="center">
-  Interested in AI, sports data, or thoughtful software?<br />
-  <a href="https://www.linkedin.com/in/srivatsa-ganapuram/"><strong>Let's connect on LinkedIn →</strong></a>
+  <a href="https://www.linkedin.com/in/srivatsa-ganapuram/">Let's talk AI, sports data, or what you're building →</a>
 </p>
