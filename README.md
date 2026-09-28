@@ -1,11 +1,10 @@
 <p align="center">
-  <img src="srivatsa-circle.png" width="150" height="150" alt="Circular portrait of Srivatsa Ganapuram" />
 </p>
 
 <h1 align="center">Hi, I'm Srivatsa 👋</h1>
 <p align="center">
   <strong>From play-by-play data to evidence-backed AI.</strong><br />
-  CS + Data Science &amp; Statistics @ UMass Amherst · Class of 2029
+  CS + Data Science &amp; Statistics @ UMass Amherst
 </p>
 
 <p align="center">
@@ -17,7 +16,7 @@
 ## ⚡ About me
 
 - 🏈 **I'm building** AI tools that turn NFL and NBA data into analysis you can trace back to the evidence.
-- 🎓 **I'm studying** Computer Science and Data Science & Statistics at UMass Amherst, graduating in May 2029.
+- 🎓 **I'm studying** Computer Science and Data Science & Statistics at UMass Amherst.
 - 🛡️ **Previously at Intelsat,** I worked on SATCOM security, investigated 10,000+ security events, and automated policy comparisons with Python.
 - 🧑‍🏫 **I also teach:** as a CICS 160 course assistant, I help 200+ students learn object-oriented programming.
 - 🎨 **Beyond the terminal,** I help organize UX/UI and branding events with UMass Design.
